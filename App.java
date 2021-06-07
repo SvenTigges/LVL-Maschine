@@ -1,6 +1,10 @@
 public class App{
 
-    public public static void main(String[] args) {
-      //todo   
+    public static void main(String[] args) {
+
+        Level_0 level = new Level_0();
+        level.play(); 
+
+         
     }
 }
